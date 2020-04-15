@@ -24,7 +24,7 @@ Development was definitely worth it! You can download it if you want, or modify 
 </p>
 
 # Building and troubleshooting
-Make sure you have Release x86 for building, or you will get compilation errors!
+Make sure you have Release x86 for building, or you will get errors between platforms!
 <p align="left">
   <img src=https://i.gyazo.com/54a61f7a7295a2ed26bcd6242ea0682b.png" width="350" title="">
 </p>
